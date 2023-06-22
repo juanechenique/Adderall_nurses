@@ -1,1 +1,3 @@
-# Adderall_nurses
+# Adderall Use, Nurse Prescriptions and Risky Behaviors
+
+The following repository contains all files. 
